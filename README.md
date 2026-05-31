@@ -18,4 +18,4 @@ Information and codes for disease network in Korea
 The files will be updated regularly.
 지속적으로 업데이트할 예정이다.
 
-https://github.com/KiBongYoo/disease_network_korea/blob/main/NetSci2026%20poster.png
+!(https://github.com/KiBongYoo/disease_network_korea/blob/main/NetSci2026%20poster.png)
